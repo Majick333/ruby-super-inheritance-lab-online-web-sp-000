@@ -13,7 +13,7 @@ class ChattyStudent < Student
   def raise_hand
     super
       puts self.10.times
-    
+
   end
 
 end
