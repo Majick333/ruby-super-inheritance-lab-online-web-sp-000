@@ -12,25 +12,23 @@ class ChattyStudent < Student
 
   def raise_hand
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand
+    "Pick me!"
     super
-    raise_hand  
-    end
-
+    "Pick me!"
 end
