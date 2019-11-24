@@ -31,5 +31,5 @@ class ChattyStudent < Student
     "Pick me!"
     super
     "Pick me!"
-end
+  end
 end
