@@ -12,7 +12,12 @@ class ChattyStudent < Student
 
   def raise_hand
     super
-      puts 10.times.self
+      i = 1
+      while i > 10
+        puts "Pick me!"
+        i += 1
+      end
+    end
 
   end
 
